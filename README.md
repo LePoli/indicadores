@@ -45,6 +45,7 @@ debe escanear el codigo QR que desplegara la terminal una vez que metro Bundler 
 -descargar aplicacion desde un dispositivo android.
 -dar a intalar. 
 -preguntara si desesa seguir intalando pese a no ser un desarrollador conocido, dar aceptar.
+-apk disponible hasta 27 de enero del 2021 en https://expo.io/accounts/palarcon/builds/6d4b2083-2ca4-4424-8543-4662258cf403
 
 ##Recomendacion final
 
